@@ -1,44 +1,46 @@
-# C4ISR-Gotchi · NEXUS v8.0
+# C4ISR-Gotchi · NEXUS
 
-[![GitHub Pages](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml)
+A browser-based virtual companion with an operations-centre aesthetic. The current main version features TCU-01 Valkyrie and combines character state, interactions, progression and activities.
 
-Simulador de mascota virtual con estética de centro de operaciones. La versión principal presenta a TCU-01 Valkyrie y combina gestión de estado, interacción, progresión y actividades.
+<p align="center">
+  <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
+  <a href="https://github.com/tzayadet/C4ISR-Gotchi"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+</p>
 
-**Demo:** https://tzayadet.github.io/C4ISR-Gotchi/  
-**Código:** https://github.com/tzayadet/C4ISR-Gotchi
+[![Pages deployment](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml)
 
-## Funcionalidades
+## Features
 
-- Estado y atributos de la unidad: stamina, disciplina, estrés, moral y confianza.
-- Interacciones de alimentación, entrenamiento, descanso y conversación.
-- Misiones y progresión mediante experiencia y rangos.
-- Inventario, recursos, tienda y habilidades.
-- Estadísticas, logros y registro de actividad.
-- Guardado y carga de estado desde el navegador.
-- Exportación e importación de datos JSON.
+- Unit state and attributes, including stamina, discipline, stress, morale and trust.
+- Feeding, training, rest and conversation interactions.
+- Missions, experience and rank progression.
+- Inventory, resources, shop and skills.
+- Statistics, achievements and activity log.
+- Browser-based save/load and JSON import/export.
 
-## Versiones
+## Use it
 
-- `index.html`: versión principal NEXUS v8.0.
-- `index1.1.html`, `index1.2.html`, `index1.4.html` e `index2.html`: iteraciones anteriores conservadas como referencia.
+Open the [live demo](https://tzayadet.github.io/C4ISR-Gotchi/) or run `index.html` locally in a modern browser. No backend or installation is required.
 
-## Ejecución
+Progress is stored in browser localStorage and is not synchronised between devices. Export a JSON backup before clearing browser data.
 
-Aplicación estática de navegador. Abre `index.html` o utiliza la demo de GitHub Pages. No requiere servidor ni dependencias de instalación.
+## Project versions
 
-El estado se guarda localmente en el navegador. Los datos no se sincronizan entre dispositivos.
+- `index.html`: current main NEXUS version.
+- `index1.1.html`, `index1.2.html`, `index1.4.html` and `index2.html`: earlier iterations retained for reference.
 
-## Tecnologías
+## Technology
 
-- HTML5
-- CSS3
-- JavaScript
-- localStorage
+HTML5, CSS3, JavaScript and localStorage.
 
-## Alcance
+## Scope
 
-Proyecto creativo y experimental. No se conecta a sistemas C4ISR reales ni realiza operaciones, comunicaciones o monitorización de infraestructura.
+A creative browser prototype. It does not connect to real C4ISR systems and does not perform operational communications, command or infrastructure monitoring.
 
-## Licencia
+## Deployment
 
-Consulta [LICENSE](LICENSE).
+Static application published through GitHub Pages.
+
+## License
+
+See [LICENSE](LICENSE) for the repository's licensing terms.
