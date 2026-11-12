@@ -1,5 +1,7 @@
 # C4ISR-Gotchi · NEXUS v8.0
 
+[![GitHub Pages](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml)
+
 Simulador de mascota virtual con estética de centro de operaciones. La versión principal presenta a TCU-01 Valkyrie y combina gestión de estado, interacción, progresión y actividades.
 
 **Demo:** https://tzayadet.github.io/C4ISR-Gotchi/  
