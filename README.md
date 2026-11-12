@@ -14,6 +14,8 @@ A browser-based virtual companion with an operations-centre aesthetic. The curre
 
 [![Pages deployment](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml)
 
+[![Quality checks](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/quality.yml/badge.svg)](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/quality.yml)
+
 ## Features
 
 - Unit state and attributes, including stamina, discipline, stress, morale and trust.
