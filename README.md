@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/INTERACTIVE_SIMULATOR-C4ISR_GOTCHI-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="C4ISR Gotchi"/>
+  <img src="https://img.shields.io/badge/BROWSER_APP-JAVASCRIPT-101010?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+</p>
+
 # C4ISR-Gotchi · NEXUS
 
 A browser-based virtual companion with an operations-centre aesthetic. The current main version features TCU-01 Valkyrie and combines character state, interactions, progression and activities.
 
 <p align="center">
-  <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
-  <a href="https://github.com/tzayadet/C4ISR-Gotchi"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+  <a href="https://tzayadet.github.io/C4ISR-Gotchi/"><strong>LIVE DEMO ↗</strong></a> ·
+  <a href="https://github.com/tzayadet/C4ISR-Gotchi"><strong>SOURCE CODE</strong></a>
 </p>
 
 [![Pages deployment](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/C4ISR-Gotchi/actions/workflows/jekyll-gh-pages.yml)
